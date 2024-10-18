@@ -62,6 +62,7 @@ def menu():
     print("[2]Kitob royhatni korish")
     print("[3]Kitob olish")
     print("[4]Kitobni royhatdan ochirish")
+    print("[0]EXIT")
 
 
 while 1:
@@ -83,6 +84,9 @@ while 1:
     elif num==4:
         Id=input("Id:")
         Library.ochir(Id)
+    elif num==0:
+        print("chiqish")
+        break
 
 
 
