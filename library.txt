@@ -1,0 +1,17 @@
+1, 1984, George Orwell, 5, 15.99
+2, To Kill a Mockingbird, Harper Lee, 3, 10.99
+3, Pride and Prejudice, Jane Austen, 8, 12.50
+4, The Great Gatsby, F. Scott Fitzgerald, 4, 14.00
+5, Moby Dick, Herman Melville, 2, 11.50
+6, War and Peace, Leo Tolstoy, 1, 19.99
+7, The Catcher in the Rye, J.D. Salinger, 6, 13.99
+8, The Hobbit, J.R.R. Tolkien, 10, 16.00
+9, Fahrenheit 451, Ray Bradbury, 3, 9.99
+10, Brave New World, Aldous Huxley, 2, 17.50
+12, The Picture of Dorian Gray, Oscar Wilde, 4, 12.00
+13, The Odyssey, Homer, 5, 15.00
+14, Crime and Punishment, Fyodor Dostoevsky, 3, 14.50
+15, The Alchemist, Paulo Coelho, 6, 18.00
+16, The Grapes of Wrath, John Steinbeck, 2, 13.50
+18, The Road, Cormac McCarthy, 4, 16.50
+19, The Brothers Karamazov, Fyodor Dostoevsky, 1, 20.00
