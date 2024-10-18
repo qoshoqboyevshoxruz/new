@@ -18,7 +18,7 @@ class Library:
                    n=i.split(',')
                    print(f"Id:{n[0]}, Name:{n[1]}, Author:{n[2]}, Count:{n[3]}, Price:{n[4]}")
 
-    def ayir_count(id):
+    def ayir_count(self,id):
         with open('library.txt', 'r') as f:
             qatorlar = f.readlines()
 
@@ -77,13 +77,15 @@ while 1:
         kitob=Library(id,name,author,count,price)
         Library.yozsin(kitob)
     elif num==2:
-        Library.oqish()
+        k = Library("", '', '', '', '')
+        k.oqish()
     elif num==3:
         id=input('Id:')
         Library.ayir_count(id)
     elif num==4:
+        k = Library("", '', '', '', '')
         Id=input("Id:")
-        Library.ochir(Id)
+        k.ochir(Id)
     elif num==0:
         print("chiqish")
         break
